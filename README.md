@@ -1,5 +1,5 @@
 # SwabLab
-I test automated the website Sawblabdemo, this website are used to practise the automation test in realtime. I'm tested this website with Selenium java, and TestNG in framework method, i tested the Functionalities like login, add to cart, remove icon , user detail box ,icon are visible and other improtant thing.
+I have automated the testing of the Sawblabdemo website. This website is used for practicing real-time automation testing. I tested this website using Selenium with Java and TestNG in a framework method. I tested functionalities such as login, adding items to the cart, removing items, checking if user detail boxes and icons are visible, and other important aspects.
 
 # selenium
 selenium ver -4.11.0 in java Language, Selenium is an open-source suite of tools and libraries that is used for browser automation. Selenium us used to: It allows users to test their websites functionally on different browsers. Perform Cross browser testing to check if the website functions consistently across different browsers
